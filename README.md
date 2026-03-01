@@ -5,8 +5,6 @@
 
 - 🤝 I’m looking * to collaborate on Open Source projects or any frontend challenges that involve complex UI components*
 
-- 👨‍💻 All of my projects are available at [[linkdin](linkdin)
-
 - 💬 Ask me about *modern CSS layouts (Grid/Flexbox), React hooks, or my favorite VS Code extensions for productivity.*
 
 - 📫 How to reach me **manglanisiddharth79@gmail.com**
